@@ -39,6 +39,8 @@ requests
 
 httplib2
 
+virtualenv
+
 
 
 ## Summary of Configuration Changes
