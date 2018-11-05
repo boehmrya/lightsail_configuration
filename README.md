@@ -6,7 +6,35 @@
 
 
 ## Software Installed
-Installed the finger package
+
+### Ubuntu Packages
+finger
+
+python2
+
+postgresql
+
+apache2
+
+python-pip
+
+### Pip Packages
+psycopg2
+
+sqlalchemy
+
+werkzeug==0.8.3
+
+flask==0.9
+
+Flask-Login==0.1.3
+
+oauth2client
+
+requests
+
+httplib2
+
 
 
 ## Summary of Configuration Changes
