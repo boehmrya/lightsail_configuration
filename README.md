@@ -18,6 +18,10 @@ apache2
 
 python-pip
 
+git
+
+libapache2-mod-wsgi
+
 ### Pip Packages
 psycopg2
 
