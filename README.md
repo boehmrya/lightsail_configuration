@@ -57,7 +57,7 @@ Added ssh public key for grader in /home/grader/.ssh/authorized_keys
 
 Enable sudo privileges for grader via modifications to /etc/sudoers.d/grader
 
-Turned password authentication off in /etc/ssh/sshd_config file
+Turned password authentication off and prevented root login in /etc/ssh/sshd_config file
 
 Configured the local timezone to UTC
 
