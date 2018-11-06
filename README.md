@@ -4,6 +4,8 @@
 ## IP Address
 52.3.221.91
 
+## SSH Port
+2200
 
 ## Software Installed
 
