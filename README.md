@@ -41,6 +41,7 @@ httplib2
 
 virtualenv
 
+(also installed all of these packages in the virtual host at /var/www/catalog/catalog/venv)
 
 
 ## Summary of Configuration Changes
@@ -59,3 +60,7 @@ Enable sudo privileges for grader via modifications to /etc/sudoers.d/grader
 Turned password authentication off in /etc/ssh/sshd_config file
 
 Configured the local timezone to UTC
+
+Added virtual host in /etc/apache2/sites-available/catalog.conf
+
+Configured wsgi file at /var/www/catalog/catalog.wsgi
