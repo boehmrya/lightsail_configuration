@@ -69,12 +69,20 @@ Configured wsgi file at /var/www/catalog/catalog.wsgi
 
 ## Third Party Resources Used
 Here were some useful threads that helped me:
+
 https://serverfault.com/questions/265410/ubuntu-server-message-says-packages-can-be-updated-but-apt-get-does-not-update
+
 http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/#creating-a-wsgi-file
+
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 In general the digital ocean documentation was very helpful in understanding server configuration better.  Also, the ubuntu packages website, the flask documentation, and stack overflow were critical.
+
 https://www.digitalocean.com/community/tutorials
+
 https://packages.ubuntu.com/
+
 http://flask.pocoo.org/docs/1.0/
+
 https://stackoverflow.com/questions/tagged/ubuntu
+
